@@ -1,2 +1,3 @@
 # Misiones
-* Investigar 
+* Investigar al Dr. Doom
+* Campturar a Red Skull
